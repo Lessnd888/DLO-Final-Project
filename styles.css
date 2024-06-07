@@ -1,0 +1,64 @@
+body {
+    color: white;
+    background-color: #21252a;
+}
+
+nav {
+    background-color: #0d6efd;
+}
+
+header {
+    margin: 50px 0 0 0;
+}
+
+#linea1 {
+    display: flex; 
+    align-items: baseline;
+    justify-content: space-between;
+}
+
+#linea2 {
+    display: flex; 
+    align-items: baseline;
+    margin: 15px 0 0 0;
+}
+
+#newContact {
+    width: 150px;
+}
+
+table {
+    margin: 30px 0 0 0;
+}
+
+#card {
+    margin: 25px 10px 15px 10px;
+    background-color: #407445;
+    color: white;
+}
+
+#card-body {
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+    margin: -10px 0 0 0;
+}
+
+#title {
+    font-size: larger;
+    font-weight: bold;
+}
+
+#little {
+    margin: -10px 0 0 0;
+    font-size: small;
+}
+
+#item {
+    padding: 7px 0 0 0;
+}
+#contactContainer{
+    width: 100%;
+}
